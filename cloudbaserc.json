@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "envId": "",
+  "envId": "hl-vue-press-7g8fd4z733fe9707",
   "$schema": "https://framework-1258016615.tcloudbaseapp.com/schema/latest.json",
   "functionRoot": "./functions",
   "functions": [],
