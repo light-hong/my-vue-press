@@ -60,4 +60,4 @@ npm run build
 
 ### VuePress 相关开发配置
 
-查看 [VuePress 配置](https://vuepress.vuejs.org/zh/config/).1234567
+查看 [VuePress 配置](https://vuepress.vuejs.org/zh/config/).12345678
